@@ -1,2 +1,2 @@
 # Achaotic API
-Welcome to achaotic api, please use our script carefully.
+Welcome to Achaotic API, please use our script carefully.
