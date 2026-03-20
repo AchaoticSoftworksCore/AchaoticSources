@@ -1,1 +1,1391 @@
-return(function(...)local X={"\117\097\119\066\052\097\103\074\051\065\119\097\104\056\102\053\115\085\061\061","\120\083\101\069\120\083\075\072";"\057\065\068\106\120\050\061\061","\111\071\047\066\082\051\081\052\082\105\090\120\115\075\119\071";"\067\099\068\090\043\099\121\061","\097\106\101\114\057\111\077\061","\108\074\088\079\070\099\090\080\051\074\047\104\120\050\061\061";"\081\099\101\074\081\071\086\119\043\066\067\061","\048\105\090\069\067\075\057\104\082\106\057\111\051\051\090\107\120\121\061\061";"\097\106\101\078\120\121\061\061";"\043\079\105\061","\043\099\101\090\057\071\068\072\067\066\047\069\057\121\061\061","\081\099\101\069\081\111\106\109\057\097\103\061";"\057\066\102\110\043\065\103\061";"\043\065\082\122\082\108\068\065\120\108\075\105\056\072\051\102";"\067\083\051\072\043\111\051\072\120\097\082\090\120\066\102\047","\051\099\075\080\067\099\051\053\103\105\082\047\081\099\051\116\081\099\051\122\103\117\061\061";"\120\083\090\090\067\050\061\061";"\111\119\099\070\079\065\097\071\111\068\066\083\120\079\053\057\118\109\121\054\105\089\097\056\089\067\076\072\120\068\077\107\104\121\108\051\106\104\065\112\049\088\072\061","","\104\111\050\102\120\122\081\114\120\083\089\103\068\105\080\109\115\075\103\061";"\111\051\119\104\082\083\050\074\056\078\088\107\108\122\106\118\115\085\061\061","\081\099\075\109\043\099\056\061";"\097\106\101\119\043\066\082\047\048\085\061\061","\115\050\061\061";"\056\072\102\104\068\116\075\098\117\116\103\061";"\043\099\051\069";"\043\079\103\061";"\120\078\047\072\057\117\061\061","\117\056\102\110\051\105\075\114\082\105\068\119\117\106\047\066\070\079\122\061";"\067\097\103\074\115\075\051\115\057\097\050\077\108\106\090\115\108\117\061\061","\057\083\106\090\081\099\068\098";"\120\111\057\100\048\071\117\072\068\106\056\106\051\066\101\053";"\067\066\051\102\081\111\051\074\081\085\061\061";"\115\109\050\047\057\049\098\119\115\050\061\061","\097\106\101\080\057\097\082\090\081\099\075\109\043\099\056\061";"\073\067\110\088\100\085\061\061";"\057\097\086\053\043\065\103\061";"\043\106\051\080\070\066\119\116\052\106\047\121\056\105\089\113\067\122\050\061";"\052\065\086\079\108\083\047\077";"\043\111\075\072\104\085\061\061";"\043\083\089\089\067\047\085\074\048\078\088\111\111\066\057\107\052\085\061\061";"\081\111\089\121\120\111\068\100";"\067\066\075\069\057\099\101\080","\067\066\051\080\043\065\057\047","\120\083\119\051\104\065\119\119\051\108\068\065\057\117\061\061";"\112\107\119\080";"\067\065\082\053\104\111\089\078"}local function j(j)return X[j+(-714109-(-720914))]end for j,Y in ipairs({{425230+-425229;-155601-(-155649)};{-827814-(-827815);-279881-(-279903)},{-51852-(-51875);387608+-387560}})do while Y[173718-173717]<Y[-722704+722706]do X[Y[565410-565409]],X[Y[966713-966711]],Y[-784307+784308],Y[-843519-(-843521)]=X[Y[452124-452122]],X[Y[-220394-(-220395)]],Y[-166002+166003]+(902151-902150),Y[637302+-637300]-(634535-634534)end end do local j=type local Y=string.len local D=table.insert local l=string.sub local o={Y=305426+-305369;I=-339437+339500;X=-268837-(-268838);U=-365238-(-365238);y=-571740-(-571788);p=19497+-19435;["\054"]=656608+-656548,d=-34934+34977;e=936909-936848;A=-254800-(-254855);Q=705535+-705506;V=149495-149486;f=386538+-386489;G=-390345-(-390352),W=531171-531112;P=-911560+911605,R=-957936+957953,t=-508210-(-508245),C=-44520+44548;["\051"]=100540-100519;J=-521506+521557;["\057"]=107640+-107615;B=-697177-(-697215),["\050"]=809793+-809761,n=464799-464752;o=194971-194949,Z=-536386+536419;l=311174+-311155;["\053"]=-825299-(-825349),a=-1004833+1004856,["\048"]=161323-161293;["\043"]=160710+-160683,i=433513-433509;h=-691725-(-691751);E=797471+-797425;O=-1019903+1019906;b=298583-298543,["\052"]=-197750+197768;s=-322202+322216,M=405587+-405531,j=125085+-125032;H=137920-137868;L=566840+-566825;q=-635698+635740,D=995215-995202,g=-868971-(-868979);S=723012+-722958;x=809675+-809651,r=-608386-(-608430);["\055"]=-285187+285218;K=-390080-(-390085);c=-676545-(-676551),z=-513637+513673;k=436113+-436055,T=-805234-(-805244),u=-506329-(-506345),["\047"]=-346695+346732,v=-937272-(-937283),w=849544+-849503,["\056"]=108835+-108815;N=586652+-586613,F=-899314-(-899326),m=60273+-60239;["\049"]=-316261+316263}local g=table.concat local v=math.floor local k=string.char local x=X for X=632726-632725,#x,943184-943183 do local b=x[X]if j(b)=="\115\116\114\105\110\103"then local j=Y(b)local L={}local S=-150763+150764 local B=594951+-594951 local f=98391+-98391 while S<=j do local X=l(b,S,S)local Y=o[X]if Y then B=B+Y*(637027-636963)^((-238778+238781)-f)f=f+(-255838-(-255839))if f==-760254+760258 then f=637202-637202 local X=v(B/(-899101+964637))local j=v((B%(365342+-299806))/(-272549+272805))local Y=B%(929465+-929209)D(L,k(X,j,Y))B=-545841+545841 end elseif X=="\061"then D(L,k(v(B/(297274-231738))))if S>=j or l(b,S+(866342-866341),S+(-403690-(-403691)))~="\061"then D(L,k(v((B%(-641392-(-706928)))/(-63052+63308))))end break end S=S+(536212-536211)end x[X]=g(L)end end end return(function(X,D,l,o,g,v,k,S,Y,c,n,L,p,b,x,q,B,i,f,C,F)q,n,f,i,x,F,S,Y,b,p,L,c,B,C=function(X)b[X]=b[X]-(382461+-382460)if b[X]==935985-935985 then b[X],x[X]=nil,nil end end,function(X,j)local D=B(j)local l=function()return Y(X,{},j,D)end return l end,function(X)local j,Y=-1568-(-1569),X[360712+-360711]while Y do b[Y],j=b[Y]-(-547093+547094),(171376-171375)+j if b[Y]==-1048519-(-1048519)then b[Y],x[Y]=nil,nil end Y=X[j]end end,function(X,j)local D=B(j)local l=function(l,o,g,v,k)return Y(X,{l;o;g,v,k},j,D)end return l end,{},function(X,j)local D=B(j)local l=function(l,o,g,v)return Y(X,{l,o,g,v},j,D)end return l end,-752402+752402,function(Y,l,o,g)local I,P,E,e,t,A,w,C,J,f,Z,b,K,V,R,Q,U,u,M,O,N,d,z,T,y,G,B,a,S,H,s,m,k,h while Y do if Y<5969073-(-864375)then if Y<248115+2748731 then if Y<-516431+2444037 then if Y<2126278-518536 then if Y<-1005633+2149769 then if Y<805705-(-298030)then if Y<-994323+1916679 then s=-992794+992795 Y=x[M]e=90617-90611 V=Y(s,e)e=j(400678+-407481)Y=j(-332601+325798)X[Y]=V s=X[e]e=-873530+873532 Y=s>e Y=Y and 5918387-148592 or-536400+12431142 else Y=365763+4176254 end else Y=871964+3670053 end else if Y<2343631-914915 then k={}Y=true x[o[718460+-718459]]=Y Y=X[j(-366275+359483)]else U=nil N=L()R={}A=L()x[N]=R e=i(15763742-609148,{N,Z;z,C})I=j(1026636-1033403)w=nil H=nil m=j(487460+-494255)h={}R=L()T=nil C=q(C)f=nil x[R]=e M=nil a=j(-272074-(-265315))e={}H=966947+17586306490074 x[A]=e e=X[I]C=j(575022-581793)Q=x[A]U=j(915853-922650)u={[a]=Q;[m]=w}I=e(h,u)S=I e=i(-39983+4471693,{A;N,d;Z;z,R})R=q(R)B=e d=q(d)P=nil Y=X[j(-333627+326845)]d=j(-920265-(-913481))k={}A=q(A)Z=q(Z)f=X[C]R=15594039688839-680490 M=X[U]N=q(N)z=q(z)P=B(d,H)z=S[P]H=j(124358-131122)d=B(H,R)P=S[d]Z={[z]=P}U=M(Z)P=30111830583782-176929 z=j(-463522-(-456728))Z=B(z,P)M=S[Z]S=nil T=U[M]B=nil C=f(T)f=C()end end else if Y<-42233+1844424 then if Y<1494645-(-212883)then C=785812+-785810 f=975646+-975645 S=x[o[-138672+138673]]B=S(f,C)S=-181009+181010 b=B==S k=b Y=b and 9365738-702409 or 1965497-(-544038)else Y=-49298+12568047 e=-978814-(-978814)N=#H R=N==e end else if Y<1043493+766757 then z=-65703+65706 P=-444321+444386 Z=L()x[Z]=k Y=x[M]k=Y(z,P)Y=-249333-(-249333)s=j(151113+-157888)z=L()P=Y x[z]=k Y=434433+-434433 H=j(863626-870404)R=n(415711+5345211,{})d=Y k=X[H]H={k(R)}k=537372+-537370 Y={D(H)}H=Y Y=H[k]R=Y k=j(-701490+694720)Y=X[k]N=x[B]V=X[s]s=V(R)V=j(444686-451482)G=N(s,V)N={G()}k=Y(D(N))N=L()x[N]=k k=-1037413-(-1037414)G=x[z]V=G G=984678+-984677 s=G G=-673427+673427 e=s<G G=k-s Y=8524046-(-199623)else B=B+C S=B<=f M=not T S=M and S M=B>=f M=T and M S=M or S M=2306534-(-540577)Y=S and M S=9065985-901861 Y=Y or S end end end else if Y<3346785-874711 then if Y<3177043-874388 then if Y<-804834+2979344 then if Y<79892+2037197 then B=j(-896698+889915)b=l C=L()S=L()Y=true x[S]=Y k=X[B]B=j(-280402+273603)f=L()Y=k[B]B=L()U=p(575193-(-628352),{C})x[B]=Y Y=i(449760+7520942,{})x[f]=Y M=j(-559319+552541)Y=false x[C]=Y T=X[M]M=T(U)Y=M and 4078168-(-853134)or 7974797-(-724389)k=M else B=-261053+261198 S=x[o[171957+-171954]]b=S*B S=219763+-219506 k=b%S Y=964045+12880185 x[o[-620539+620542]]=k end else Y=9665504-524039 y=-694411-(-694413)O=m[y]y=x[Q]w=O==y J=w end else if Y<-250499+2672705 then Y=-342819+7804741 x[S]=k else Y=x[o[138850+-138843]]Y=Y and-483991+7069265 or-299466+6054002 end end else if Y<52755+2574638 then if Y<2758036-233848 then S=x[o[-803426+803428]]Y=-164824+8828153 B=x[o[-479173-(-479176)]]b=S==B k=b else S=x[o[-265763-(-265765)]]B=543656-543419 b=S*B S=696177+20483871999440 k=b+S b=35184372757633-668801 S=-175622+175623 Y=k%b x[o[-285808+285810]]=Y Y=650350+1495822 b=x[o[277357-277354]]k=b~=S end else if Y<-582685+3434382 then S=B Z=762605+-762350 U=-857708-(-857708)Y=x[o[329305+-329304]]M=Y(U,Z)Y=1680893-(-218789)b[S]=M S=nil else N=N+A h=not I R=N<=e R=h and R h=N>=e h=I and h R=h or R h=902917+2786696 Y=R and h R=2570009-794213 Y=Y or R end end end end else if Y<4306302-(-422059)then if Y<504683+3624739 then if Y<-549709+4271936 then if Y<579856+2742917 then if Y<3793774-684111 then S=x[o[97281+-97278]]B=881969-881937 b=S%B f=x[o[785348+-785344]]Z=-919823+919825 M=x[o[-675001+675003]]R=x[o[-210879+210882]]P=-793228-(-793241)H=R-b R=-389532-(-389564)d=H/R z=P-d U=Z^z T=M/U C=f(T)U=507533-507532 f=732150+4294235146 B=C%f C=-739120+739122 f=C^b S=B/f f=x[o[-409493+409497]]Z=272545+-272289 M=S%U U=437644+4294529652 T=M*U C=f(T)f=x[o[-345783-(-345787)]]T=f(S)B=C+T M=1092806-1027270 S=nil C=-795508-(-861044)f=B%C T=B-f C=T/M M=-458270+458526 B=nil T=f%M Y=14315112-(-299642)U=f-T M=U/Z Z=-117362+117618 U=C%Z P=767818+-767562 z=C-U Z=z/P b=nil C=nil f=nil z={T,M,U;Z}x[o[422800-422799]]=z U=nil M=nil Z=nil T=nil else V=P==d G=V Y=-1001975+14197919 end else R=N h=R Y=941199+1910528 H[R]=h R=nil end else if Y<215913+3758560 then y=-87811-(-87812)O=m[y]t=Y y=false w=O==y Y=w and 160570+2076867 or 8594891-(-546574)J=w else V=x[S]Y=V and 997882+2162884 or-402222+13598166 G=V end end else if Y<176345+4227660 then if Y<-939936+5243871 then R=nil N=q(N)R=-76107+76108 B=q(B)M=q(M)S=q(S)M=j(-887949-(-881159))B=nil H=nil S=nil d=nil z=q(z)U=nil C=q(C)P=nil Z=q(Z)T=nil f=q(f)T=j(1721-8511)C=X[T]T=j(936567-943336)f=C[T]C=L()U=j(-840582-(-833822))x[C]=f T=X[M]Z=j(-674483-(-667700))M=j(-58926-(-52139))f=T[M]M=X[U]U=j(1019764+-1026550)T=M[U]Y=96774+2754953 U=X[Z]Z=j(840930+-847695)M=U[Z]H={}z=L()P={}U=-309708-(-309708)N=725098-724842 Z=L()x[Z]=U U=-250178+250180 x[z]=U e=N d=L()N=868349-868348 x[d]=P U={}P=231353+-231353 A=N N=884424-884424 I=A<N N=R-A else Y=X[j(360979-367747)]k={}end else if Y<5482021-1015829 then S=l[-974252+974254]b=l[-743802+743803]Y=x[o[43676-43675]]B=Y Y=B[S]Y=Y and 6328948-(-296346)or 315929+11003650 else Y=true Y=Y and-12565+376192 or-164098+9737093 end end end else if Y<-938129+6707622 then if Y<5701396-(-40084)then if Y<4475064-(-679888)then if Y<5133466-154414 then T=x[C]k=T Y=-555312+9254498 else x[o[-203908-(-203913)]]=k b=nil Y=387103+2080271 end else I=j(-733088+726298)A=L()x[A]=G m=575210+-575208 k=X[I]h=696864+-696764 I=j(-240972+234185)Y=k[I]u=-431823+432078 I=193405-193404 k=Y(I,h)I=L()h=311463+-311463 x[I]=k Y=x[M]k=Y(h,u)h=L()x[h]=k u=351468+-351467 Y=x[M]w=j(-787663+780888)a=x[I]k=Y(u,a)u=L()x[u]=k k=x[M]Q=504146-504145 a=k(Q,m)k=735492+-735491 Y=a==k k=j(-123332-(-116536))a=L()x[a]=Y E=100316+-100316 K=-683000+693000 m=j(-48385-(-41627))t=X[w]O=x[M]y={O(E,K)}w=t(D(y))t=j(466840+-473598)J=w..t Y=j(425759-432539)Q=m..J Y=R[Y]Y=Y(R,k,Q)Q=L()m=j(394308+-401086)x[Q]=Y J=c(-875363+2485533,{M;A;z;B,S,N,a;Q,I;u,h,Z})k=X[m]m={k(J)}Y={D(m)}m=Y Y=x[a]Y=Y and 402276+6089323 or-788851+11099270 end else if Y<5183967-(-572712)then S=-443428-(-443429)Y={}b=Y B=x[o[-184172+184181]]Y=920281-(-979401)f=B B=941028-941027 C=B B=781313-781313 T=C<B B=S-C else S=j(-77104-(-70319))B=-175764+5561954 k=925112+8771703 b=S^B Y=k-b k=j(-984174-(-977398))b=Y Y=k/b k={Y}Y=X[j(-970445-(-963645))]end end else if Y<6186366-(-336727)then if Y<5293826-(-568229)then s=j(886963+-893738)A=j(-198333-(-191561))Y=X[s]e=X[A]s=Y(e)Y=j(964424-971227)X[Y]=s Y=-121594+1205268 else J=x[S]Y=J and 4939538-1026629 or 2714847-320477 k=J end else if Y<-604103+7209148 then b=j(-909266+902473)Y=X[b]B=-172874+172874 S=x[o[991453+-991445]]b=Y(S,B)Y=-505783+6260319 else Y=639625+8850499 end end end end end else if Y<604563+10077571 then if Y<9641848-721071 then if Y<201344+7963514 then if Y<6791462-(-1009574)then if Y<699584+6598712 then if Y<65711+6936418 then N=#H e=636914-636914 R=N==e Y=R and-614813+2219183 or 11925351-(-593398)else Y=i(14971481-(-747230),{f})V={Y()}k={D(V)}Y=X[j(1047318+-1054107)]end else I=q(I)u=q(u)h=q(h)Y=8674836-(-48833)m=nil a=q(a)A=q(A)Q=q(Q)end else if Y<635608+7485576 then k=j(-1026748-(-1019955))Y=X[k]b=j(326166+-332932)k=Y(b)k={}Y=X[j(736599+-743361)]else Y=x[o[-561261-(-561271)]]S=x[o[799782+-799771]]b[Y]=S Y=x[o[490635+-490623]]S={Y(b)}Y=X[j(120367+-127128)]k={D(S)}end end else if Y<8359480-(-336378)then if Y<9120343-735133 then w=1039182+-1039181 t=m[w]Y=15488293-172645 J=t else Y=k and-946332+14610716 or 2739369-271995 end else if Y<-237492+8942528 then M=j(58093-64883)T=k k=X[M]M=j(118823+-125610)Y=k[M]d=j(-922541+915781)M=L()U=j(462141+-468901)x[M]=Y k=X[U]U=j(894059+-900840)Y=k[U]U=Y z=Y P=X[d]Y=P and 13722428-911586 or-707004+16663473 Z=P else G=G+s A=not e k=G<=V k=A and k A=G>=V A=e and A k=A or k A=4958479-(-773040)Y=k and A k=-208540+4283517 Y=Y or k end end end else if Y<-232526+10060381 then if Y<-43302+9589490 then if Y<-298402+9636383 then if Y<-688818+9686857 then Y=true Y=Y and 2079032-946084 or 953743+6186336 else k=J Y=t Y=2616004-221634 end else Y=X[j(-302833-(-296032))]k={S}end else if Y<95722+9504129 then Y=X[j(-353661+346863)]k={}else Y=true Y=656422+6483657 end end else if Y<-434802+10748872 then if Y<988114+9161672 then Y=true Y=Y and-489740+13861790 or 3926716-(-471350)else t=x[S]J=t Y=t and 9002569-825295 or 15741290-425642 end else if Y<384217+9947298 then f=nil Y=-388424+9878548 M=nil T=nil else H=not d z=z+P U=z<=Z U=H and U H=z>=Z H=d and H U=H or U H=-537952+14709259 Y=U and H U=11285797-970890 Y=Y or U end end end end else if Y<549724+13263216 then if Y<13766657-644759 then if Y<-938894+13231786 then if Y<629962+11019267 then if Y<11487972-628518 then B=x[o[807227+-807221]]S=B==b k=S Y=4659441-(-359229)else Y={}C=35184371554081-(-534751)x[o[-331864+331866]]=Y k=x[o[-665766-(-665769)]]f=k k=S%C U=j(-63830+57047)M=-963690+963945 x[o[-307162-(-307166)]]=k T=S%M M=789227-789225 C=T+M x[o[361474-361469]]=C M=X[U]U=j(611585-618389)T=M[U]M=T(b)U=-644381-(-644382)T=j(927760+-934523)z=-811784-(-811785)Y=-272604+10623494 P=z B[S]=T T=520409-520324 z=-8362+8362 Z=M d=P<z z=U-P end else e=j(235782-242585)Y=X[e]e=j(-342352+335580)X[e]=Y Y=917115+166559 end else if Y<1025120+11670044 then e=#H N=1019063+-1019062 R=f(N,e)h=697077+-697076 N=T(H,R)R=nil e=x[d]I=N-h A=M(I)e[N]=A Y=-1009774+7993569 N=nil else H=j(363119+-369879)Y=16136126-179657 d=X[H]H=j(-994645-(-987857))P=d[H]Z=P end end else if Y<12361315-(-1012452)then if Y<-372048+13622849 then x[S]=G Y=x[S]Y=Y and-547273+15642900 or-928504+10674545 else b=j(1014581+-1021353)k=j(244983-251786)Y=X[k]k=X[b]b=j(-682249+675477)X[b]=Y b=j(-209827+203024)X[b]=k Y=9087384-(-942277)b=x[o[-315153-(-315154)]]S=b()end else if Y<12636879-(-1045708)then k=j(242435-249205)Y=X[k]b=x[o[-440882+440886]]U=j(748540-755318)f=j(832219-838994)B=X[f]M=X[U]Z=F(372120+14846198,{})U={M(Z)}T={D(U)}M=-330788-(-330790)C=T[M]f=B(C)B=j(378617+-385413)S=b(f,B)b={S()}k=Y(D(b))b=k S=x[o[-724361+724366]]Y=S and 9869411-(-927107)or 5281109-262439 k=S else Y=-367992+2172378 z=j(294378-301166)Z=X[z]k=Z end end end else if Y<957345+14219007 then if Y<-799374+15725592 then if Y<14255057-(-39672)then if Y<14878115-760631 then B=896018+-896017 S=x[o[350518-350515]]b=S~=B Y=b and 3604571-592105 or 2307519-161347 else U=z s=j(-545594+538811)V=X[s]s=j(1018042-1024844)G=V[s]V=G(b,U)U=nil G=x[o[-320657-(-320663)]]s=G()N=V+s R=N+T Y=9791410-(-559480)s=685312-685311 N=-869357-(-869613)H=R%N N=B[S]T=H V=T+s G=f[V]R=N..G B[S]=R end else B=j(860897-867657)S=X[B]B=j(28500-35286)Y=X[j(305094-311873)]b=S[B]B=x[o[719628-719627]]S={b(B)}k={D(S)}end else if Y<15306097-187412 then Y=-324373+4617341 else b=x[o[-730846+730847]]k=#b b=-890422+890422 Y=k==b Y=Y and 3094594-539938 or-737037+15351791 end end else if Y<16075530-686483 then if Y<603210+14701851 then k=370477+8946706 S=j(-669931+663140)B=3855558-533579 b=S^B Y=k-b k=j(248714-255471)b=Y Y=k/b k={Y}Y=X[j(679402-686176)]else x[S]=J y=x[u]E=-208626-(-208627)O=y+E w=m[O]t=P+w w=218331-218075 Y=t%w O=x[h]P=Y w=d+O O=-1040250+1040506 t=w%O Y=-999142+8461064 d=t end else if Y<-584449+16316843 then Y=-658450+10688111 else k=Z Y=z Y=Z and 864237-(-940149)or 780947+13004378 end end end end end end end Y=#g return D(k)end,{},function(X,j)local D=B(j)local l=function(l,o)return Y(X,{l;o},j,D)end return l end,function()S=S+(653788-653787)b[S]=971145+-971144 return S end,function(X,j)local D=B(j)local l=function(l,o,g)return Y(X,{l,o;g},j,D)end return l end,function(X)for j=-1024494-(-1024495),#X,-478320+478321 do b[X[j]]=b[X[j]]+(-980636+980637)end if l then local Y=l(true)local D=g(Y)D[j(-986607+979848)],D[j(-75305+68532)],D[j(897086-903863)]=X,f,function()return 744219+-2480379 end return Y else return o({},{[j(-567925+561152)]=f;[j(16586+-23345)]=X;[j(667535+-674312)]=function()return 848511+-2584671 end})end end,function(X,j)local D=B(j)local l=function(...)return Y(X,{...},j,D)end return l end return(C(2700015-607791,{}))(D(k))end)(getfenv and getfenv()or _ENV,unpack or table[j(443789+-450577)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Neverzen = loadstring(game:HttpGet("https://raw.githubusercontent.com/AchaoticSoftworksCore/AchaoticAssets/refs/heads/main/UiLibrarys/Neverzen.luau"))()
+
+local Services = {
+    NZNotification = Neverzen:CreateNotifier(),
+    RunService = game:GetService("RunService"),
+    UserInputService = game:GetService("UserInputService"),
+    Players = game:GetService("Players"),
+    Workspace = game:GetService("Workspace"),
+    ReplicatedStorage = game:GetService("ReplicatedStorage"),
+    VirtualInputManager = game:GetService("VirtualInputManager"),
+    Debris = game:GetService("Debris"),
+    TweenService = game:GetService("TweenService")
+}
+
+Services.CurrentCamera = Services.Workspace.CurrentCamera
+Services.ServerStatsItem = game:GetService("Stats").Network.ServerStatsItem
+Services.SwordAPI = Services.ReplicatedStorage.Shared.SwordAPI
+
+local Player = {
+    LocalPlayer = Services.Players.LocalPlayer,
+    Character = nil,
+    Humanoid = nil,
+    CurrentPlayerFPS = 0
+}
+
+local Connections = {
+    NoRender = nil,
+    MainConnection = nil
+}
+
+local Script = {
+    Running = true,
+    ExecutorParent = identifyexecutor()
+}
+
+Services.NZNotification.new('BB Achaotic', 'Attempting to Load Blade Ball, Running in ' .. Script.ExecutorParent .. '.', 5)
+
+task.wait(math.random(0.1, 0.9))
+
+local RemotesDATA = {
+    ParryFunction = nil,
+    RemotesCaptured = false,
+    ParryHash = nil,
+    ParryIndex = nil,
+    Remotes = {}
+}
+
+local originalMetatables = {}
+
+Services.NZNotification.new('BB Achaotic', 'New fetch patched using old fetch method.', 12)
+Services.NZNotification.new('BB Achaotic', 'Please block once to capture', 20)
+
+local function isValidRemoteArgs(args)
+    return #args == 7 and type(args[2]) == "string" and type(args[3]) == "number" and typeof(args[4]) == "CFrame" and type(args[5]) == "table" and type(args[6]) == "table" and type(args[7]) == "boolean"
+end
+
+local function hookRemote(remote)
+    if RemotesDATA.Remotes[remote] or originalMetatables[getmetatable(remote)] then return end
+    originalMetatables[getmetatable(remote)] = true
+    local meta = getrawmetatable(remote)
+    setreadonly(meta, false)
+    local oldIndex = meta.__index
+    meta.__index = function(self, key)
+        if key ~= "FireServer" or not self:IsA("RemoteEvent") then return oldIndex(self, key) end
+        return function(_, ...)
+            local args = {...}
+            if isValidRemoteArgs(args) and not RemotesDATA.Remotes[self] then
+                RemotesDATA.Remotes[self] = args
+                RemotesDATA.ParryHash = args[2]
+                RemotesDATA.ParryIndex = args[3]
+                RemotesDATA.RemotesCaptured = true
+            end
+            return oldIndex(self, key)(_, unpack(args))
+        end
+    end
+    setreadonly(meta, true)
+end
+
+for _, remote in pairs(Services.ReplicatedStorage:GetChildren()) do
+    if remote:IsA("RemoteEvent") or remote:IsA("RemoteFunction") then
+        hookRemote(remote)
+    end
+end
+
+Services.ReplicatedStorage.ChildAdded:Connect(function(child)
+    if child:IsA("RemoteEvent") or child:IsA("RemoteFunction") then
+        hookRemote(child)
+    end
+end)
+
+task.spawn(function()
+    repeat task.wait() until RemotesDATA.RemotesCaptured
+    Services.NZNotification.new('BB Achaotic', 'Successfully captured remotes', 5)
+end)
+
+local Balls = Services.Workspace:WaitForChild("Balls")
+local Runtime = Services.Workspace:WaitForChild("Runtime")
+
+local Parry = {
+    SpeedDivisorMultiplier = 1.1,
+    LastParry = os.clock(),
+    Parried = false,
+    AnimationDelay = 1,
+    GrabParry = nil,
+    AutoParryEnabled = false,
+    AutoParryAnimationFix = false,
+    AutoSpamParryEnabled = false,
+    AutoSpamParryAnimationFix = false,
+    AutoSpamParrySpamming = false,
+    AutoSpamParryThreshold = 3,
+    Parries = 0,
+    ManualSpamParrySpamming = false,
+    ManualSpamParryUI = false,
+    ManualSpamParryKeybind = Enum.KeyCode.E,
+    ManualSpamParryAnimationFix = false,
+    lastParryTime = 0,
+    TornadoTime = 0,
+    SpammingMaxSpeed = 100,
+    SpammingMode = "Advanced",
+    SpamParryCooldownBypass = false,
+    AdvancedSpammingDelayBypass = false,
+    ParryMethod = "Blatant",
+    ParryHashCheck = false,
+    AnimationCache = {},
+    SpamAnimationParries = 0,
+    AnimationSpammingMode = false,
+    LerpRadians = 0,
+    LastWarping = tick(),
+    PreviousVelocity = {},
+    Curving = tick(),
+    LastInput = nil
+}
+
+local Visuals = {
+    VisualisersEnabled = false,
+    VisualiserService = {},
+    HitEffectEnabled = false,
+    HitEffectService = {
+        BallEffects = {}
+    },
+    VisualParts = {}
+}
+
+local Immortality = {
+    Enabled = false,
+    Rotate = false,
+    Radius = 40,
+    Height = 100
+}
+
+local Optimization = {
+    NoRenderEnabled = false
+}
+
+local UI = {
+    Window = Neverzen.new({
+        Name = "BB Achaotic",
+        Keybind = Enum.KeyCode.LeftControl,
+        Scale = UDim2.new(0, 611, 0, 396),
+        Resizable = true,
+        Shadow = false,
+        Acrylic = false
+    }),
+    ManualSpamParryToggle = nil,
+    ScreenGui = nil,
+    Handler = nil,
+    SpamButton = nil
+}
+
+local ManualSpamParryUIService = {}
+
+local function GetCharacter()
+    return Player.LocalPlayer.Character
+end
+
+local function GetHumanoid()
+    local character = GetCharacter()
+    return character and character:FindFirstChildOfClass("Humanoid")
+end
+
+local function StopAnimation(animationtrack)
+    local StopFadeTime = animationtrack:GetAttribute("StopFadeTime")
+    animationtrack:Stop(StopFadeTime)
+end
+
+local function PlayGrabAnimation(animationtrack)
+    local PlayFadeTime = animationtrack:GetAttribute("PlayFadeTime")
+    local PlayWeight = animationtrack:GetAttribute("PlayWeight")
+    local PlaySpeed = animationtrack:GetAttribute("PlaySpeed")
+    animationtrack:Play(PlayFadeTime, PlayWeight, PlaySpeed)
+end
+
+local function GetParryAnimation()
+    local character = GetCharacter()
+    if not character then return nil end
+    
+    local currentSword = character:GetAttribute("CurrentlyEquippedSword")
+    if not currentSword then 
+        return Services.SwordAPI.Collection.Default:FindFirstChild("GrabParry")
+    end
+    
+    if Parry.AnimationCache[currentSword] then
+        return Parry.AnimationCache[currentSword]
+    end
+    
+    local success, swordData = pcall(function()
+        return Services.ReplicatedStorage.Shared.ReplicatedInstances.Swords.GetSword:Invoke(currentSword)
+    end)
+    
+    if not success or not swordData or type(swordData) ~= "table" then
+        Parry.AnimationCache[currentSword] = Services.SwordAPI.Collection.Default:FindFirstChild("GrabParry")
+        return Parry.AnimationCache[currentSword]
+    end
+    
+    if not swordData.AnimationType or type(swordData.AnimationType) ~= "string" then
+        Parry.AnimationCache[currentSword] = Services.SwordAPI.Collection.Default:FindFirstChild("GrabParry")
+        return Parry.AnimationCache[currentSword]
+    end
+    
+    local swordCollection = Services.SwordAPI.Collection
+    for _, object in pairs(swordCollection:GetChildren()) do
+        if object.Name == swordData.AnimationType then
+            local animation = object:FindFirstChild("GrabParry") or object:FindFirstChild("Grab")
+            if animation then
+                Parry.AnimationCache[currentSword] = animation
+                return animation
+            end
+        end
+    end
+    
+    Parry.AnimationCache[currentSword] = Services.SwordAPI.Collection.Default:FindFirstChild("GrabParry")
+    return Parry.AnimationCache[currentSword]
+end
+
+local lastplayedd = 0
+local lastplayedds = 0
+local bypasscd = false
+
+local function PlayParry_Animation()
+    if Parry.ParryMethod == "Legit" then return end
+    local humanoid = GetHumanoid()
+    if not humanoid then return end
+    
+    local animation = GetParryAnimation()
+    if not animation then 
+        animation = Services.SwordAPI.Collection.Default:FindFirstChild("GrabParry")
+        if not animation then return end
+    end
+     
+    for _, track in pairs(humanoid.Animator:GetPlayingAnimationTracks()) do
+        if track.Name == "GrabParry" or track.Name == "Grab" then
+            if not Parry.AnimationSpammingMode then
+                track.TimePosition = 0
+            end
+            StopAnimation(track)
+        elseif track.Name == "SuccessParry" or track.Name == "Success" then
+            if Parry.AnimationSpammingMode then
+                track.TimePosition = 0
+            end
+            StopAnimation(track)
+        end
+    end
+    
+    Parry.GrabParry = humanoid.Animator:LoadAnimation(animation)
+    PlayGrabAnimation(Parry.GrabParry)
+end
+
+local function SpamParry_Animation()
+  if (os.clock() - lastplayedd) >= (1/90) then
+    lastplayedd = os.clock()
+    if (os.clock() - lastplayedds) >= (Parry.AnimationSpammingMode and (1/60) or 0.1) or bypasscd then
+        lastplayedds = os.clock()
+        bypasscd = false
+        PlayParry_Animation()
+    end
+  end
+end
+
+Services.UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    Parry.LastInput = input.UserInputType
+end)
+
+local function GetParry_Data()
+    local Events = {}
+    local Vector2_Mouse_Location
+    
+    local isMobile = Services.UserInputService.TouchEnabled and not Services.UserInputService.MouseEnabled
+    local isRelevantInput = Parry.LastInput and (
+        Parry.LastInput == Enum.UserInputType.MouseButton1 or 
+        Parry.LastInput == Enum.UserInputType.MouseButton2 or 
+        Parry.LastInput == Enum.UserInputType.Keyboard
+    )
+    
+    if isRelevantInput and not isMobile then
+        local Mouse_Location = Services.UserInputService:GetMouseLocation()
+        Vector2_Mouse_Location = {Mouse_Location.X, Mouse_Location.Y}
+    else
+        local viewportSize = Services.CurrentCamera.ViewportSize
+        Vector2_Mouse_Location = {viewportSize.X / 2, viewportSize.Y / 2}
+    end
+    
+    local alivePlayers = Services.Workspace.Alive:GetChildren()
+    for _, v in ipairs(alivePlayers) do
+        if v ~= GetCharacter() and v.PrimaryPart then
+            local screenPos, isOnScreen = Services.CurrentCamera:WorldToScreenPoint(v.PrimaryPart.Position)
+            if isOnScreen then
+                Events[tostring(v)] = screenPos
+            end
+        end
+    end
+    
+    return {
+        Services.CurrentCamera.CFrame,
+        Events,
+        Vector2_Mouse_Location
+    }
+end
+
+local function FireParry()
+    if Parry.ParryMethod == "Blatant" then
+        local IsFakeHash = false
+        local Remotes = RemotesDATA.Remotes
+        if Parry.ParryHashCheck then
+            for _, Args in pairs(Remotes) do
+                if Args[1] == "PARRY_HASH_FAKE_1" or Args[1] == "_G" then
+                    IsFakeHash = true
+                    break
+                end
+            end
+        end
+        
+        local ParryData = GetParry_Data()
+        local ParryHash = RemotesDATA.ParryHash
+        local ParryIndex = RemotesDATA.ParryIndex
+        
+        task.spawn(function()
+            for Remote, Args in pairs(Remotes) do
+                local Hash = IsFakeHash and nil or Args[1]
+                local Arguments = {
+                    Hash,
+                    ParryHash,
+                    ParryIndex,
+                    ParryData[1],
+                    ParryData[2],
+                    ParryData[3]
+                }
+                
+                local success, err = pcall(function()
+                    Remote:FireServer(table.unpack(Arguments))
+                end)
+                
+                if not success then
+                    warn("Parry fire failed:", err)
+                end
+            end
+        end)
+    elseif Parry.ParryMethod == "Legit" then
+        Services.VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, nil)
+        Services.VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.F, false, nil)
+    end
+    
+    if Parry.Parries > 7 then
+        return false
+    end
+    
+    Parry.Parries += 1
+    task.delay(0.5, function()
+        if Parry.Parries > 0 then
+            Parry.Parries -= 1
+        end
+    end)
+end
+
+local function Get_Balls()
+    local BallInstances = {}
+    for _, Instance in pairs(Balls:GetChildren()) do
+        if Instance:GetAttribute("realBall") then
+            table.insert(BallInstances, Instance)
+        end
+    end
+    return BallInstances
+end
+
+local function GetLinear_Interpolation(a, b, time_volume)
+    return a + (b - a) * time_volume
+end
+
+local function IsBall_Curved(Ball)
+    if not Ball then return false end
+    
+    local Zoomies = Ball:FindFirstChild("zoomies")
+    if not Zoomies then return false end
+    
+    local Ping = Services.ServerStatsItem["Data Ping"]:GetValue()
+    local Velocity = Zoomies.VectorVelocity
+    local Ball_Direction = Velocity.Unit
+    local playerPos = Player.LocalPlayer.Character.PrimaryPart.Position
+    local ballPos = Ball.Position
+    local Direction = (playerPos - ballPos).Unit
+    local Dot = Direction:Dot(Ball_Direction)
+    local Speed = Velocity.Magnitude
+    local Speed_Threshold = math.min(Speed / 100, 40)
+    local Angle_Threshold = 40 * math.max(Dot, 0)
+    local Distance = (playerPos - ballPos).Magnitude
+    local Reach_Time = Distance / Speed - (Ping / 1000)
+    local Ball_Distance_Threshold = 15 - math.min(Distance / 1000, 15) + Speed_Threshold
+    
+    table.insert(Parry.PreviousVelocity, Velocity)
+    if #Parry.PreviousVelocity > 4 then
+        table.remove(Parry.PreviousVelocity, 1)
+    end
+    
+    if Ball:FindFirstChild("AeroDynamicSlashVFX") then
+        Services.Debris:AddItem(Ball.AeroDynamicSlashVFX, 0)
+        Parry.TornadoTime = tick()
+    end
+    
+    if Runtime:FindFirstChild("Tornado") then
+        if (tick() - Parry.TornadoTime) < ((Runtime.Tornado:GetAttribute("TornadoTime") or 1) + 0.314159) then
+            return true
+        end
+    end
+    
+    local Enough_Speed = Speed > 160
+    if Enough_Speed and Reach_Time > (Ping / 10 + 0.03) then
+        if Speed < 300 then
+            Ball_Distance_Threshold = math.max(Ball_Distance_Threshold - 15, 15)
+        elseif Speed <= 600 then
+            Ball_Distance_Threshold = math.max(Ball_Distance_Threshold - 17, 17)
+        elseif Speed <= 1000 then
+            Ball_Distance_Threshold = math.max(Ball_Distance_Threshold - 19, 19)
+        else
+            Ball_Distance_Threshold = math.max(Ball_Distance_Threshold - 20, 20)
+        end
+    end
+    
+    if Distance < Ball_Distance_Threshold then return false end
+    
+    local adjustedReachTime = Reach_Time + 0.03
+    if Speed < 300 then
+        if (tick() - Parry.Curving) < (adjustedReachTime / 1.2) then return true end
+    elseif Speed < 450 then
+        if (tick() - Parry.Curving) < (adjustedReachTime / 1.21) then return true end
+    elseif Speed < 600 then
+        if (tick() - Parry.Curving) < (adjustedReachTime / 1.335) then return true end
+    else
+        if (tick() - Parry.Curving) < (adjustedReachTime / 1.5) then return true end
+    end
+    
+    local Dot_Threshold = (0 - Ping / 1000)
+    local Direction_Difference = (Ball_Direction - Velocity.Unit)
+    local Direction_Similarity = Direction:Dot(Direction_Difference.Unit)
+    local Dot_Difference = Dot - Direction_Similarity
+    
+    if Dot_Difference < Dot_Threshold then return true end
+    
+    local Clamped_Dot = math.clamp(Dot, -1, 1)
+    local Radians = math.deg(math.asin(Clamped_Dot))
+    Parry.LerpRadians = GetLinear_Interpolation(Parry.LerpRadians, Radians, 0.8)
+    
+    if Speed < 300 then
+        if Parry.LerpRadians < 0.02 then
+            Parry.LastWarping = tick()
+        end
+        if (tick() - Parry.LastWarping) < (adjustedReachTime / 1.19) then return true end
+    else
+        if Parry.LerpRadians < 0.018 then
+            Parry.LastWarping = tick()
+        end
+        if (tick() - Parry.LastWarping) < (adjustedReachTime / 1.5) then return true end
+    end
+    
+    if #Parry.PreviousVelocity == 4 then
+        for i = 1, 2 do
+            local prevDir = (Ball_Direction - Parry.PreviousVelocity[i].Unit).Unit
+            local prevDot = Direction:Dot(prevDir)
+            if (Dot - prevDot) < Dot_Threshold then return true end
+        end
+    end
+    
+    local backwardsCurveDetected = false
+    local backwardsAngleThreshold = 60
+    local horizDirection = Vector3.new(playerPos.X - ballPos.X, 0, playerPos.Z - ballPos.Z)
+    if horizDirection.Magnitude > 0 then
+        horizDirection = horizDirection.Unit
+    end
+    local awayFromPlayer = -horizDirection
+    local horizBallDir = Vector3.new(Ball_Direction.X, 0, Ball_Direction.Z)
+    if horizBallDir.Magnitude > 0 then
+        horizBallDir = horizBallDir.Unit
+        local backwardsAngle = math.deg(math.acos(math.clamp(awayFromPlayer:Dot(horizBallDir), -1, 1)))
+        if backwardsAngle < backwardsAngleThreshold then
+            backwardsCurveDetected = true
+        end
+    end
+    
+    return (Dot < Dot_Threshold) or backwardsCurveDetected
+end
+
+local function GetClosest_Player()
+    local Max_Distance = math.huge
+    local Found_Entity = nil
+    local EntityDistance = nil
+    
+    for _, Entity in pairs(Services.Workspace.Alive:GetChildren()) do
+        if tostring(Entity) ~= tostring(Player.LocalPlayer) then
+            if Entity.PrimaryPart then
+                local Distance = Player.LocalPlayer:DistanceFromCharacter(Entity.PrimaryPart.Position)
+                if Distance < Max_Distance then
+                    EntityDistance = Distance
+                    Found_Entity = Entity
+                end
+            end
+        end
+    end
+    
+    return Found_Entity, EntityDistance
+end
+
+local function MainConnection()
+    if Parry.AutoParryEnabled then
+        local BallsList = Get_Balls()
+        for _, Ball in pairs(BallsList) do
+            if not Ball then return end
+            
+            local Zoomies = Ball:FindFirstChild("zoomies")
+            if not Zoomies then return end
+            
+            Ball:GetAttributeChangedSignal("target"):Once(function()
+                Parry.Parried = false
+            end)
+            
+            if Parry.Parried then return end
+            
+            local Ball_Target = Ball:GetAttribute("target")
+            local Velocity = Zoomies.VectorVelocity
+            local Distance = (Player.LocalPlayer.Character.PrimaryPart.Position - Ball.Position).Magnitude - 5
+            local Ping = Services.ServerStatsItem["Data Ping"]:GetValue() / 10
+            local Ping_Threshold = math.clamp(Ping / 10, 5, 17)
+            local Speed = Velocity.Magnitude * 1.5
+            local cappedSpeedDiff = math.min(math.max(Speed - 9.5, 0), 650)
+            local speed_divisor_base = 2.4 + cappedSpeedDiff * 0.002
+            local speed_divisor = speed_divisor_base * Parry.SpeedDivisorMultiplier
+            local Parry_Accuracy = Ping_Threshold + math.max(Speed / speed_divisor, 9.5) + (Distance / 75)
+            local Curved = IsBall_Curved(Ball)
+            
+            if Ball:FindFirstChild("AeroDynamicSlashVFX") then
+                Services.Debris:AddItem(Ball.AeroDynamicSlashVFX, 0)
+                Parry.TornadoTime = tick()
+            end
+            
+            if Runtime:FindFirstChild("Tornado") then
+                if (tick() - Parry.TornadoTime) < (Runtime.Tornado:GetAttribute("TornadoTime") or 1) + 0.314159 then
+                    return
+                end
+            end
+            
+            if Ball:FindFirstChild("ComboCounter") then return end
+            
+            local Singularity_Cape = Player.LocalPlayer.Character.PrimaryPart:FindFirstChild("SingularityCape")
+            if Singularity_Cape then return end
+            
+            if Ball_Target == tostring(Player.LocalPlayer) and Distance <= Parry_Accuracy and not Curved then
+                local Parry_Time = os.clock()
+                local Time_View = Parry_Time - Parry.LastParry
+                
+                if Time_View > 0.1 and Parry.AutoParryAnimationFix then
+                    PlayParry_Animation()
+                end
+                
+                FireParry()
+                Parry.LastParry = Parry_Time
+                Parry.Parried = true
+            end
+            
+            local Last_Parrys = tick()
+            repeat
+                Services.RunService.PreSimulation:Wait()
+            until (os.clock() - Last_Parrys) >= 1 or not Parry.Parried
+            
+            Parry.Parried = false
+        end
+    end
+
+    if Parry.AutoSpamParryEnabled then
+        local BallsList = Get_Balls()
+        for _, Ball in pairs(BallsList) do
+            if not Ball or not Ball:FindFirstChild("zoomies") then 
+                Parry.AutoSpamParrySpamming = false 
+                return 
+            end
+
+            local Closest_Entity = GetClosest_Player()
+            local Root = Player.LocalPlayer.Character and Player.LocalPlayer.Character.PrimaryPart
+            
+            if not Root then 
+                Parry.AutoSpamParrySpamming = false 
+                return
+            end
+            
+            if not Closest_Entity or not Closest_Entity.PrimaryPart then 
+                Parry.AutoSpamParrySpamming = false 
+                return 
+            end
+            
+            local Ping = Services.ServerStatsItem["Data Ping"]:GetValue()
+            local PingFactor = Ping / 500
+            local BallSpeed = Ball.AssemblyLinearVelocity.Magnitude
+            
+            local TargetCheck = 30.3
+            if Ping <= 0 or Ping >= 130 then
+                if Ping <= 131 or Ping >= 160 then
+                    if Ping <= 161 or Ping >= 225 then
+                        if Ping > 226 and Ping < 500 then
+                            TargetCheck = math.clamp(math.floor(math.max(BallSpeed / 4 + PingFactor, 32.5)), 32.5, 80)
+                        end
+                    else
+                        TargetCheck = math.clamp(math.floor(math.max(BallSpeed / 4.25 + PingFactor, 29.5)), 29.5, 70)
+                    end
+                else
+                    TargetCheck = math.clamp(math.floor(math.max(BallSpeed / 4.65 + PingFactor, 27.25)), 27.25, 70)
+                end
+            else
+                TargetCheck = math.clamp(math.floor(math.max(BallSpeed / 5 + PingFactor, 26)), 26, 70)
+            end
+            
+            local RootPos = Root.Position
+            local BallPos = Ball.Position
+            local TargetPos = Closest_Entity.PrimaryPart.Position
+            
+            local DistToBall = (RootPos - BallPos).Magnitude
+            local DistToTarget = (RootPos - TargetPos).Magnitude
+            
+            if DistToBall <= TargetCheck * 1.5 and DistToTarget <= TargetCheck then
+                Parry.AutoSpamParrySpamming = true
+            else
+                Parry.AutoSpamParrySpamming = false
+            end
+        end
+    else
+        Parry.AutoSpamParrySpamming = false
+    end
+end
+
+Balls.ChildRemoved:Connect(function(Child)
+    Parry.Parries = 0
+    Parry.Parried = false
+    Parry.SpamAnimationParries = 0
+    Parry.AutoSpamParrySpamming = false
+end)
+
+local function MakeDraggable(Recv, update, speed)
+    local dragToggle = nil
+    local dragStart = nil
+    local startPos = nil
+
+    local function updateInput(input)
+        local delta = input.Position - dragStart
+        local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+        Services.TweenService:Create(update, TweenInfo.new(speed), {Position = position}):Play()
+    end
+
+    Recv.InputBegan:Connect(function(input)
+        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+            dragToggle = true
+            dragStart = input.Position
+            startPos = update.Position
+            input.Changed:Connect(function()
+                if input.UserInputState == Enum.UserInputState.End then
+                    dragToggle = false
+                end
+            end)
+        end
+    end)
+
+    Services.UserInputService.InputChanged:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+            if dragToggle then
+                updateInput(input)
+            end
+        end
+    end)
+end
+
+function Visuals.VisualiserService:Enabled(value)
+    if value then
+        for _, VisualPart in pairs(Visuals.VisualParts) do
+            VisualPart.Transparency = 0
+        end
+    else
+        for _, VisualPart in pairs(Visuals.VisualParts) do
+            VisualPart.Transparency = 1
+        end
+    end
+end
+
+function Visuals.VisualiserService:SetColor(color)
+    for _, Part in pairs(Visuals.VisualParts) do
+        Part.Color = color
+    end
+end
+
+function Visuals.VisualiserService:Update(ball, position, size)
+    if not ball:FindFirstChild("VisualPart") then
+        local NewPart = Instance.new("Part")
+        NewPart.Name = "VisualPart"
+        NewPart.Anchored = true
+        NewPart.CanCollide = false
+        NewPart.CastShadow = false
+        NewPart.Shape = Enum.PartType.Ball
+        NewPart.Transparency = Visuals.VisualisersEnabled and 0 or 1
+        NewPart.Material = Enum.Material.ForceField
+        NewPart.Color = Color3.fromRGB(255, 255, 255)
+        NewPart.Parent = ball
+        Visuals.VisualParts[ball] = NewPart
+    end
+
+    Visuals.VisualParts[ball].Position = position
+    Visuals.VisualParts[ball].Size = Vector3.new(size, size, size)
+end
+
+function Visuals.HitEffectService:Emit(ball, position)
+    if not Visuals.HitEffectService.BallEffects[ball] then
+        local HitEffect = Instance.new("Attachment")
+        local Arcs = Instance.new("ParticleEmitter")
+
+        HitEffect.Name = "HitEffect"
+        HitEffect.Parent = ball
+        Arcs.Enabled = false
+        Arcs.RotSpeed = NumberRange.new(250)
+        Arcs.VelocitySpread = -360
+        Arcs.Texture = "rbxassetid://8084911316"
+        Arcs.ZOffset = 1
+        Arcs.LightEmission = 1
+        Arcs.Rotation = NumberRange.new(-360, 360)
+        Arcs.Transparency = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1, 0),
+            NumberSequenceKeypoint.new(0.25, 0, 0),
+            NumberSequenceKeypoint.new(0.75, 0, 0),
+            NumberSequenceKeypoint.new(1, 1, 0)
+        })
+        Arcs.Name = "Arcs"
+        Arcs.Lifetime = NumberRange.new(1)
+        Arcs.Speed = NumberRange.new(math.random(1, 3))
+        Arcs.SpreadAngle = Vector2.new(-360, 360)
+        Arcs.Rate = 0
+        Arcs.Orientation = Enum.ParticleOrientation.VelocityPerpendicular
+        Arcs.Size = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 10, 0),
+            NumberSequenceKeypoint.new(1, 10, 0)
+        })
+
+        Arcs.Parent = HitEffect
+        Visuals.HitEffectService.BallEffects[ball] = HitEffect
+    end
+
+    local BallEffect = Visuals.HitEffectService.BallEffects[ball].Arcs
+    BallEffect:Emit(1)
+end
+
+function ManualSpamParryUIService:Visible(value)
+    UI.ScreenGui.Enabled = value
+end
+
+function ManualSpamParryUIService:SetColor(value)
+    if value then
+        UI.SpamButton.BackgroundColor3 = Color3.new(0, 1, 0)
+        UI.SpamButton.UIStroke.Color = Color3.new(0, 1, 0)
+        UI.SpamButton.Text = "ACTIVE"
+    else
+        UI.SpamButton.BackgroundColor3 = Color3.new(1, 0, 0)
+        UI.SpamButton.UIStroke.Color = Color3.new(1, 0, 0)
+        UI.SpamButton.Text = "SPAM"
+    end
+end
+
+do
+    UI.Window:AddLabel('General')
+
+    local CombatTab = UI.Window:AddTab({
+        Name = "Combat",
+        Icon = "swords"
+    })
+
+    local VisualTab = UI.Window:AddTab({
+        Name = "Visuals",
+        Icon = "box"
+    })
+
+    local AutoParrySection = CombatTab:AddSection({
+        Name = "Auto Parry",
+        Position = "left"
+    })
+
+    local AutoSpamParrySection = CombatTab:AddSection({
+        Name = "Auto Spam Parry [BETA]",
+        Position = "right"
+    })
+
+    local ManualSpamParrySection = CombatTab:AddSection({
+        Name = "Manual Spam Parry",
+        Position = "right"
+    })
+
+    do
+        AutoParrySection:AddToggle({
+            Name = 'Enabled',
+            Default = false,
+            Callback = function(value)
+                Parry.AutoParryEnabled = value
+            end,
+        })
+
+        AutoParrySection:AddSlider({
+            Name = "Accuracy",
+            Min = 0,
+            Max = 100,
+            Round = 1,
+            Default = 100,
+            Type = "%",
+            Callback = function(value)
+                Parry.SpeedDivisorMultiplier = 0.7 + (value - 0.8) * (0.35 / 99)
+            end,
+        })
+
+        AutoParrySection:AddToggle({
+            Name = 'Animation Fix',
+            Default = false,
+            Callback = function(value)
+                Parry.AutoParryAnimationFix = value
+            end,
+        })
+    end
+    
+    do
+        AutoSpamParrySection:AddToggle({
+            Name = 'Enabled',
+            Default = false,
+            Callback = function(value)
+                Parry.AutoSpamParryEnabled = value
+            end,
+        })
+        
+        AutoSpamParrySection:AddToggle({
+            Name = 'Animation Fix',
+            Default = false,
+            Callback = function(value)
+                Parry.AutoSpamParryAnimationFix = value
+            end,
+        })
+    end 
+    
+    do
+        UI.ManualSpamParryToggle = ManualSpamParrySection:AddToggle({
+            Name = 'Spam',
+            Default = false,
+            Callback = function(value)
+                Parry.ManualSpamParrySpamming = value
+                ManualSpamParryUIService:SetColor(value)
+            end,
+        })
+
+        ManualSpamParrySection:AddToggle({
+            Name = 'UI',
+            Default = false,
+            Callback = function(value)
+                Parry.ManualSpamParryUI = value
+                ManualSpamParryUIService:Visible(value)
+            end,
+        })
+
+        ManualSpamParrySection:AddKeybind({
+            Name = "Keybind",
+            Default = "E",
+            Callback = function(key)
+                Parry.ManualSpamParryKeybind = key
+            end,
+        })
+
+        ManualSpamParrySection:AddToggle({
+            Name = 'Animation Fix',
+            Default = false,
+            Callback = function(value)
+                Parry.ManualSpamParryAnimationFix = value
+            end,
+        })
+    end
+
+    local VisualiserSection = VisualTab:AddSection({
+        Name = "Visualiser",
+        Position = "left"
+    })
+
+    VisualiserSection:AddToggle({
+        Name = 'Enabled',
+        Default = false,
+        Callback = function(value)
+            Visuals.VisualisersEnabled = value
+            Visuals.VisualiserService:Enabled(value)
+        end,
+    })
+
+    local EffectSection = VisualTab:AddSection({
+        Name = "Effects",
+        Position = "right"
+    })
+
+    EffectSection:AddToggle({
+        Name = 'Hit Effect',
+        Default = false,
+        Callback = function(value)
+            Visuals.HitEffectEnabled = value
+        end,
+    })
+
+    UI.Window:AddLabel('Miscellaneous')
+
+    local ExclusiveTab = UI.Window:AddTab({
+        Name = "Exclusive",
+        Icon = "layers"
+    })
+
+    local AnimationDisablerSection = ExclusiveTab:AddSection({
+        Name = "Animation Disabler",
+        Position = "left"
+    })
+
+    AnimationDisablerSection:AddToggle({
+        Name = 'Disable Parry Animation',
+        Default = false,
+        Callback = function(value)
+            for _, v in pairs(Services.SwordAPI.Collection:GetDescendants()) do
+                if v.Name == "SuccessParry" then
+                    v:SetAttribute("SuccessParry", not value)
+                end
+            end
+        end,
+    })
+
+    AnimationDisablerSection:AddToggle({
+        Name = 'Disable Grab Animation',
+        Default = false,
+        Callback = function(value)
+            for _, v in pairs(Services.SwordAPI.Collection:GetDescendants()) do
+                if v.Name == "GrabParry" then
+                    v:SetAttribute("GrabParry", not value)
+                end
+            end
+        end,
+    })
+
+    local ImmortalitySection = ExclusiveTab:AddSection({
+        Name = "Immortality",
+        Position = "right"
+    })
+
+    ImmortalitySection:AddToggle({
+        Name = 'Enabled',
+        Default = false,
+        Callback = function(value)
+            Immortality.Enabled = value
+        end,
+    })
+
+    ImmortalitySection:AddToggle({
+        Name = 'Rotate',
+        Default = false,
+        Callback = function(value)
+            Immortality.Rotate = value
+        end,
+    })
+
+    ImmortalitySection:AddSlider({
+        Name = "Radius",
+        Min = 0,
+        Max = 100,
+        Round = 1,
+        Default = 40,
+        Type = "studs",
+        Callback = function(value)
+            Immortality.Radius = value
+        end,
+    })
+
+    ImmortalitySection:AddSlider({
+        Name = "Height",
+        Min = 0,
+        Max = 100,
+        Round = 1,
+        Default = 100,
+        Type = "studs",
+        Callback = function(value)
+            Immortality.Height = value
+        end,
+    })
+
+    local OpitimizationSection = ExclusiveTab:AddSection({
+        Name = "Optimization",
+        Position = "left"
+    })
+
+    OpitimizationSection:AddToggle({
+        Name = 'No Render',
+        Default = false,
+        Callback = function(value)
+            Optimization.NoRenderEnabled = value
+        end,
+    })
+
+    local SettingsTab = UI.Window:AddTab({
+        Name = "Settings",
+        Icon = "settings"
+    })
+
+    local SpammingSection = SettingsTab:AddSection({
+        Name = "Spamming",
+        Position = "left"
+    })
+
+    SpammingSection:AddDropdown({
+        Name = "Mode",
+        Default = "Advanced",
+        Values = {"Default", "Advanced"},
+        Callback = function(value)
+            Parry.SpammingMode = value
+        end,
+    })
+
+    SpammingSection:AddDivider({
+        Color = Color3.fromRGB(50, 50, 50),
+        Height = 2
+    })
+
+    SpammingSection:AddSlider({
+        Name = "Max Speed",
+        Min = 50,
+        Max = 120,
+        Round = 1,
+        Default = Parry.SpammingMaxSpeed,
+        Type = "parries",
+        Callback = function(value)
+            Parry.SpammingMaxSpeed = value
+        end,
+    })
+
+    SpammingSection:AddToggle({
+        Name = 'Bypass Delay',
+        Default = false,
+        Callback = function(value)
+            Parry.AdvancedSpammingDelayBypass = value
+        end,
+    })
+
+    SpammingSection:AddToggle({
+        Name = 'Reset After Parry',
+        Default = false,
+        Callback = function(value)
+            Parry.SpamParryCooldownBypass = value
+        end,
+    })
+
+    local ParrySystemSection = SettingsTab:AddSection({
+        Name = "Parry System",
+        Position = "right"
+    })
+
+    ParrySystemSection:AddDropdown({
+        Name = "Method",
+        Default = Parry.ParryMethod,
+        Values = {"Legit", "Blatant"},
+        Callback = function(value)
+            Parry.ParryMethod = value
+        end,
+    })
+
+    ParrySystemSection:AddDivider({
+        Color = Color3.fromRGB(50, 50, 50),
+        Height = 2
+    })
+
+    ParrySystemSection:AddToggle({
+        Name = 'Hash Check',
+        Default = Parry.ParryHashCheck,
+        Callback = function(value)
+            Parry.ParryHashCheck = value
+        end,
+    })
+end
+
+do
+    UI.ScreenGui = Instance.new("ScreenGui")
+    UI.ScreenGui.Name = "ScreenGui"
+    UI.ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    UI.ScreenGui.ResetOnSpawn = false
+    UI.ScreenGui.Enabled = false
+    UI.ScreenGui.Parent = Services.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+    UI.Handler = Instance.new("CanvasGroup")
+    UI.Handler.Name = "Handler"
+    UI.Handler.Position = UDim2.new(0.5, 0, 0.5, 0)
+    UI.Handler.Size = UDim2.new(0, 200, 0, 125)
+    UI.Handler.BackgroundColor3 = Color3.new(1, 1, 1)
+    UI.Handler.BackgroundTransparency = 1
+    UI.Handler.BorderSizePixel = 0
+    UI.Handler.BorderColor3 = Color3.new(0, 0, 0)
+    UI.Handler.AnchorPoint = Vector2.new(0.5, 0.5)
+    UI.Handler.Transparency = 1
+    UI.Handler.Parent = UI.ScreenGui
+
+    local HeadFrame = Instance.new("Frame")
+    HeadFrame.Name = "HeadFrame"
+    HeadFrame.Position = UDim2.new(0.5, 0, 0.1, 0)
+    HeadFrame.Size = UDim2.new(1, 0, 1, -100)
+    HeadFrame.BackgroundColor3 = Color3.new(0.0470588, 0.0470588, 0.0470588)
+    HeadFrame.BackgroundTransparency = 0.1
+    HeadFrame.BorderSizePixel = 0
+    HeadFrame.BorderColor3 = Color3.new(0, 0, 0)
+    HeadFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    HeadFrame.Transparency = 0.1
+    HeadFrame.Parent = UI.Handler
+
+    local HeadLabel = Instance.new("TextLabel")
+    HeadLabel.Name = "HeadLabel"
+    HeadLabel.Position = UDim2.new(0.5, 0, 0.5, 0)
+    HeadLabel.Size = UDim2.new(1, -10, 1, -10)
+    HeadLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+    HeadLabel.BackgroundTransparency = 1
+    HeadLabel.BorderSizePixel = 0
+    HeadLabel.BorderColor3 = Color3.new(0, 0, 0)
+    HeadLabel.AnchorPoint = Vector2.new(0.5, 0.5)
+    HeadLabel.Text = "BB Achaotic"
+    HeadLabel.TextColor3 = Color3.new(0.819608, 0.819608, 0.819608)
+    HeadLabel.TextSize = 14
+    HeadLabel.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+    HeadLabel.TextScaled = true
+    HeadLabel.TextWrapped = true
+    HeadLabel.TextXAlignment = Enum.TextXAlignment.Left
+    HeadLabel.Parent = HeadFrame
+
+    local UICorner = Instance.new("UICorner")
+    UICorner.Name = "UICorner"
+    UICorner.CornerRadius = UDim.new(0, 4)
+    UICorner.Parent = UI.Handler
+
+    local ButtonFrame = Instance.new("Frame")
+    ButtonFrame.Name = "ButtonFrame"
+    ButtonFrame.Position = UDim2.new(0.5, 0, 0.6, 0)
+    ButtonFrame.Size = UDim2.new(1, 0, 1, -25)
+    ButtonFrame.BackgroundColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
+    ButtonFrame.BackgroundTransparency = 0.1
+    ButtonFrame.BorderSizePixel = 0
+    ButtonFrame.BorderColor3 = Color3.new(0, 0, 0)
+    ButtonFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+    ButtonFrame.Transparency = 0.1
+    ButtonFrame.Parent = UI.Handler
+
+    UI.SpamButton = Instance.new("TextButton")
+    UI.SpamButton.Name = "SpamButton"
+    UI.SpamButton.Position = UDim2.new(0.5, 0, 0.5, 0)
+    UI.SpamButton.Size = UDim2.new(1, -15, 1, -15)
+    UI.SpamButton.BackgroundColor3 = Color3.new(1, 0, 0)
+    UI.SpamButton.BackgroundTransparency = 0.75
+    UI.SpamButton.BorderSizePixel = 0
+    UI.SpamButton.BorderColor3 = Color3.new(0, 0, 0)
+    UI.SpamButton.AnchorPoint = Vector2.new(0.5, 0.5)
+    UI.SpamButton.TextTransparency = 0.25
+    UI.SpamButton.Text = "SPAM"
+    UI.SpamButton.TextColor3 = Color3.new(1, 1, 1)
+    UI.SpamButton.TextSize = 25
+    UI.SpamButton.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+    UI.SpamButton.Parent = ButtonFrame
+
+    local UICorner2 = Instance.new("UICorner")
+    UICorner2.Name = "UICorner"
+    UICorner2.CornerRadius = UDim.new(0, 2)
+    UICorner2.Parent = UI.SpamButton
+
+    local UIStroke = Instance.new("UIStroke")
+    UIStroke.Name = "UIStroke"
+    UIStroke.Color = Color3.new(1, 0, 0)
+    UIStroke.Transparency = 0.5
+    UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    UIStroke.Parent = UI.SpamButton
+
+    local UIStroke2 = Instance.new("UIStroke")
+    UIStroke2.Name = "UIStroke"
+    UIStroke2.Color = Color3.new(0, 0.0980392, 0.133333)
+    UIStroke2.Transparency = 0.850
+    UIStroke2.Parent = UI.Handler
+
+    local function ToggleSpam()
+        Parry.ManualSpamParrySpamming = not Parry.ManualSpamParrySpamming
+        UI.ManualSpamParryToggle:SetValue(Parry.ManualSpamParrySpamming)
+        ManualSpamParryUIService:SetColor(Parry.ManualSpamParrySpamming)
+    end
+    
+    UI.SpamButton.MouseButton1Click:Connect(ToggleSpam)
+    MakeDraggable(UI.Handler, UI.Handler, 0.2)
+end
+
+Services.UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if not input.UserInputType == Enum.UserInputType.Keyboard then return end
+    if input.KeyCode == Parry.ManualSpamParryKeybind then
+        Parry.ManualSpamParrySpamming = not Parry.ManualSpamParrySpamming
+        UI.ManualSpamParryToggle:SetValue(Parry.ManualSpamParrySpamming)
+    end
+end)
+
+do
+    local function RandomNumberRange(a)
+        return math.random(-a * 90000009292929399949949496000, a * -1e9) / 5e8
+    end
+
+    local ForceSpeed = 3000
+
+    local DesyncTypes = {}
+    local CurrentRotation = 0
+
+    Services.RunService.Stepped:Connect(function()
+        if Immortality.Enabled and Player.LocalPlayer.Character and Player.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            pcall(function()
+                Player.LocalPlayer.Character.HumanoidRootPart:SetNetworkOwner(Player.LocalPlayer)
+            end)
+        end
+    end)
+
+    Services.RunService.Heartbeat:Connect(function()
+        if Immortality.Enabled and Player.LocalPlayer.Character and Player.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            CurrentRotation = Immortality.Rotate and (CurrentRotation + 15) % 360 or 0
+            DesyncTypes[1] = Player.LocalPlayer.Character.HumanoidRootPart.CFrame
+            DesyncTypes[2] = Player.LocalPlayer.Character.HumanoidRootPart.AssemblyLinearVelocity
+
+            local SpoofThis = Player.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.Angles(0, math.rad(CurrentRotation), 0) + Vector3.new(0, Immortality.Height, 0)
+            local horizontalOscillation = math.sin(tick() * 30) * Immortality.Radius
+            local verticalOscillation = math.cos(tick() * 60) * Immortality.Height
+            SpoofThis = SpoofThis * CFrame.new(horizontalOscillation, verticalOscillation, 0) * CFrame.Angles(
+                math.rad(RandomNumberRange(ForceSpeed)),
+                math.rad(RandomNumberRange(ForceSpeed)),
+                0
+            )
+
+            Player.LocalPlayer.Character.HumanoidRootPart.CFrame = SpoofThis
+            Player.LocalPlayer.Character.HumanoidRootPart.AssemblyLinearVelocity = DesyncTypes[2] + Vector3.new(
+                math.cos(tick() * 8) * ForceSpeed,
+                math.cos(tick() * 8) * ForceSpeed,
+                0
+            )
+
+            Services.RunService.RenderStepped:Wait()
+
+            Player.LocalPlayer.Character.HumanoidRootPart.CFrame = DesyncTypes[1]
+            Player.LocalPlayer.Character.HumanoidRootPart.AssemblyLinearVelocity = DesyncTypes[2]
+        end
+    end)
+
+    local oldIndex
+    oldIndex = hookmetamethod(game, "__index", newcclosure(function(self, key)
+        if Immortality.Enabled and not checkcaller() then
+            if key == "CFrame" and Player.LocalPlayer.Character and Player.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                if self == Player.LocalPlayer.Character.HumanoidRootPart then
+                    return DesyncTypes[1] or CFrame.new()
+                elseif self == Player.LocalPlayer.Character:FindFirstChild("Head") then
+                    return DesyncTypes[1] and DesyncTypes[1] + Vector3.new(0, Player.LocalPlayer.Character.HumanoidRootPart.Size / 2 + 0.5, 0) or CFrame.new()
+                end
+            end
+        end
+        return oldIndex(self, key)
+    end))
+end
+
+local SpamCooldownBypass = false
+
+local function RequestAdvancedParry()
+    if not Parry.SpammingMode == "Advanced" then return end
+    if Parry.AutoSpamParrySpamming or Parry.ManualSpamParrySpamming then
+        local currentTime = tick()
+        if currentTime - Parry.lastParryTime >= (1 / Parry.SpammingMaxSpeed) or SpamCooldownBypass or Parry.AdvancedSpammingDelayBypass then
+            FireParry()
+            Parry.lastParryTime = currentTime
+            SpamCooldownBypass = false
+            if (Parry.AutoSpamParryAnimationFix and Parry.AutoSpamParrySpamming) or (Parry.ManualSpamParryAnimationFix and Parry.ManualSpamParrySpamming) then
+                SpamParry_Animation()
+            end
+        end
+    end
+end
+
+Runtime.ChildAdded:Connect(function(Value)
+    if not Optimization.NoRenderEnabled then return end
+    Services.Debris:AddItem(Value, 0)
+end)
+
+local lastmainconnection = tick()
+local connections = {}
+
+local function SimulationRepeat(deltaTime)
+    if not Script.Running then
+        for _, connection in pairs(connections) do
+            connection:Disconnect()
+        end
+        return
+    end
+    
+    Parry.AnimationSpammingMode = Parry.SpamAnimationParries > 1
+    
+    local currentTime = tick()
+    if currentTime - lastmainconnection >= 0.0075 then
+        lastmainconnection = currentTime
+        MainConnection()
+    end
+    
+    if Visuals.VisualisersEnabled then
+        local BallsList = Get_Balls()
+        for _, Ball in pairs(BallsList) do
+            if Ball then
+                local Velocity = Ball.AssemblyLinearVelocity
+                local Speed = Velocity.Magnitude
+                local Size = math.clamp(Speed / 5, 3.5, 500)
+                Visuals.VisualiserService:Update(Ball, Ball.Position, Size)
+            end
+        end
+    end
+    
+    if type(deltaTime) == "number" then
+        Player.CurrentPlayerFPS = 1 / deltaTime
+    end
+end
+
+Services.ReplicatedStorage.Remotes.ParrySuccess.OnClientEvent:Connect(function()
+    if Parry.SpamParryCooldownBypass then
+        SpamCooldownBypass = true
+    end
+    
+    if Parry.SpamAnimationParries < 5 then
+        Parry.SpamAnimationParries += 1
+        task.delay(0.15, function()
+            if Parry.SpamAnimationParries > 0 then
+                Parry.SpamAnimationParries -= 1
+            end
+        end)
+    end
+    
+    bypasscd = true
+    local humanoid = GetHumanoid()
+    if humanoid and (Parry.AutoSpamParryAnimationFix and Parry.AutoSpamParrySpamming) or (Parry.ManualSpamParryAnimationFix and Parry.ManualSpamParrySpamming) or (Parry.AutoParryAnimationFix and Parry.AutoParryEnabled) then
+        for _, track in pairs(humanoid.Animator:GetPlayingAnimationTracks()) do
+            if track.Name == "GrabParry" or track.Name == "Grab" then
+                if not Parry.AnimationSpammingMode then
+                    track.TimePosition = 0
+                end
+                StopAnimation(track)
+            end
+        end
+    end
+    
+    if Visuals.HitEffectEnabled then
+        for _, Ball in pairs(Get_Balls()) do
+            Visuals.HitEffectService:Emit(Ball, Ball.Position)
+        end
+    end
+end)
+
+local function DefaultParryRequest()
+    if Parry.SpammingMode == "Default" then
+        if Parry.AutoSpamParrySpamming or Parry.ManualSpamParrySpamming then
+            FireParry()
+            if (Parry.AutoSpamParryAnimationFix and Parry.AutoSpamParrySpamming) or (Parry.ManualSpamParryAnimationFix and Parry.ManualSpamParrySpamming) then
+                SpamParry_Animation()
+            end
+        end
+    end
+end
+
+Services.RunService.PreSimulation:Connect(SimulationRepeat) 
+
+Services.RunService:BindToRenderStep("Critical120Hz", Enum.RenderPriority.First.Value, DefaultParryRequest)
+Services.RunService.Stepped:Connect(SimulationRepeat)
+
+Services.ReplicatedStorage.Remotes.ParrySuccessAll.OnClientEvent:Connect(RequestAdvancedParry)
+Services.ReplicatedStorage.Remotes.ParryAttemptAll.OnClientEvent:Connect(RequestAdvancedParry)
+Services.RunService.PreRender:Connect(RequestAdvancedParry)
+
+coroutine.create(function()
+    for _ = 1, math.huge do
+        RequestAdvancedParry()
+        task.wait()
+    end
+end)
+
+Services.NZNotification.new('BB Achaotic', 'Loaded Blade Ball Successfully.', 10)
